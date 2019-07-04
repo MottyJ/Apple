@@ -1,1 +1,1 @@
-#A project where I recreated the Apple homepage
+##A project where I recreated the Apple homepage
