@@ -1,3 +1,1 @@
-# The amazing - something - apple clone
-# The amazing apple clone!!!!!1
-## something else 
+#A project where I recreated the Apple homepage
