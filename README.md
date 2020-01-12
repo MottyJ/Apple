@@ -1,1 +1,1 @@
-A project where I recreated the Apple homepage
+Recreated the Apple landing page responsively - using pure CSS.
